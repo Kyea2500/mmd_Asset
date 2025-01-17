@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\GameProcess\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\GameProcess\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\GameProcess\\Pad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\GameProcess\\Pad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Vec2\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\Vec2\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\Scene\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneGameOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\Scene\\SceneGameOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneGameOver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\Scene\\SceneGameOver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\Scene\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{203A0CB6-1663-43FF-B576-D825F01599FA}|Old_Castle_Lament\\Old_Castle_Lament.vcxproj|solutionrelative:Old_Castle_Lament\\Scene\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Life.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Pad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneGameover.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneGameover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Pad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneMain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Life.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pad.h",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\GameProcess\\Pad.h",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\GameProcess\\Pad.h",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\GameProcess\\Pad.h",
+              "RelativeToolTip": "Old_Castle_Lament\\GameProcess\\Pad.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T03:30:54.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.h",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\GameProcess\\Game.h",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\GameProcess\\Game.h",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\GameProcess\\Game.h",
+              "RelativeToolTip": "Old_Castle_Lament\\GameProcess\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T03:27:41.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player\\Player.cpp",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\Player\\Player.cpp",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player\\Player.cpp",
+              "RelativeToolTip": "Old_Castle_Lament\\Player\\Player.cpp",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAQwJwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T01:09:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.h",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player\\Player.h",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\Player\\Player.h",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player\\Player.h",
+              "RelativeToolTip": "Old_Castle_Lament\\Player\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T01:04:23.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vec2.h",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Vec2\\Vec2.h",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\Vec2\\Vec2.h",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Vec2\\Vec2.h",
+              "RelativeToolTip": "Old_Castle_Lament\\Vec2\\Vec2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T01:08:46.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\main.cpp",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\main.cpp",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\main.cpp",
+              "RelativeToolTip": "Old_Castle_Lament\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T01:32:00.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SceneGameOver.cpp",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneGameOver.cpp",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\Scene\\SceneGameOver.cpp",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneGameOver.cpp",
+              "RelativeToolTip": "Old_Castle_Lament\\Scene\\SceneGameOver.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T00:48:35.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SceneGameOver.h",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneGameOver.h",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\Scene\\SceneGameOver.h",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneGameOver.h",
+              "RelativeToolTip": "Old_Castle_Lament\\Scene\\SceneGameOver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T00:45:55.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneManager.h",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\Scene\\SceneManager.h",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneManager.h",
+              "RelativeToolTip": "Old_Castle_Lament\\Scene\\SceneManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T00:46:49.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SceneGame.cpp",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneGame.cpp",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\Scene\\SceneGame.cpp",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneGame.cpp",
+              "RelativeToolTip": "Old_Castle_Lament\\Scene\\SceneGame.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T00:45:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "Old_Castle_Lament\\Scene\\SceneManager.cpp",
+              "ToolTip": "E:\\\u68EE\u306E\u5B89\u85E4\uFF12\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Scene\\SceneManager.cpp",
+              "RelativeToolTip": "Old_Castle_Lament\\Scene\\SceneManager.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvzEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T00:45:40.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "game.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\game.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\game.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\game.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:46.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Life.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Life.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Life.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Life.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Life.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:47.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Enemy.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Enemy.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Enemy.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Enemy.h",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:46.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneTitle.cpp",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneTitle.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneTitle.cpp",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneTitle.cpp",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneTitle.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwDwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T01:37:44.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pad.cpp",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Pad.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Pad.cpp",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Pad.cpp",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Pad.cpp",
+              "ViewState": "AQIAADUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T01:37:40.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SceneTitle.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneTitle.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneTitle.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneTitle.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneTitle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:53.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SceneGameover.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneGameover.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneGameover.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneGameover.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneGameover.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:51.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Player.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player.h",
+              "ViewState": "AQIAACMAAAAAAAAAAADwv0IAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:50.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player.cpp",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player.cpp",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Player.cpp",
+              "ViewState": "AQIAAGoCAAAAAAAAAAAUwKkCAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T01:33:00.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Enemy.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Enemy.cpp",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Enemy.cpp",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Enemy.cpp",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAAAFYBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T01:37:38.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SceneMain.cpp",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneMain.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneMain.cpp",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneMain.cpp",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneMain.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwD4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T01:37:43.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneManager.cpp",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneManager.cpp",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAcwFgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T01:37:44.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SceneGameover.cpp",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneGameover.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneGameover.cpp",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneGameover.cpp",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneGameover.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T01:37:42.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Map.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Map.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Map.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Map.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Map.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:48.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pad.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Pad.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Pad.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Pad.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Pad.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:48.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SceneMain.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneMain.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneMain.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneMain.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneMain.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:51.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneManager.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneManager.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\SceneManager.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:52.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Vec2.h",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Vec2.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Vec2.h",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Vec2.h",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Vec2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T01:37:54.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Map.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Map.cpp",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Map.cpp",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Map.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T01:37:40.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Life.cpp",
+              "DocumentMoniker": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Life.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Life.cpp",
+              "ToolTip": "E:\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Life.cpp",
+              "RelativeToolTip": "..\\..\\..\\old castle\\Old_Castle_Lament\\Old_Castle_Lament\\Life.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T01:37:38.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
