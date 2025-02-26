@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MetasequoiaDocument>
+    <IncludedBy>source_Ca_hb.mqo</IncludedBy>
+    <Plugin.BD1224DB.0000002C name="ボーン">
+        <XSFormat version="0.2" app="Metasequoia">
+            <XSConfig>
+                <XSFileConfig limitFPS="0" FPS="60.00" step="0" freeze="0" fastcalc="0" adjustwgt="1" debugdraw="0" mode="0" multitrack="0"/>
+                <XSPhysicsConfig enable="0"/>
+                <XSSceneConfig col_scn="8375551"/>
+                <XSBoneConfig col_def="6737049" col_sel="16757299" col_hot="16776960" col_cst="15040434" col_phy="8362444"/>
+            </XSConfig>
+            <XSAnimationContainer>
+                <XSAnimationSet name="motion_01" interpolate="21">
+                    <XSAnimation frame="0">
+                        <XSAnimationKey name="CAH_全ての親"/>
+                        <XSAnimationKey name="CAH_接地オフセ"/>
+                        <XSAnimationKey name="CAH_両足オフセ"/>
+                        <XSAnimationKey name="CAH_足オフセ_R_"/>
+                        <XSAnimationKey name="CAH_足ＩＫ_R_"/>
+                        <XSAnimationKey name="CAH_つま先ＩＫ_R_"/>
+                        <XSAnimationKey name="CAH_つま先ＩＫ2_R_"/>
+                        <XSAnimationKey name="CAH_足オフセ_L_"/>
+                        <XSAnimationKey name="CAH_足ＩＫ_L_"/>
+                        <XSAnimationKey name="CAH_つま先ＩＫ_L_"/>
+                        <XSAnimationKey name="CAH_つま先ＩＫ2_L_"/>
+                        <XSAnimationKey name="CAH_センター"/>
+                        <XSAnimationKey name="CAH_下半身"/>
+                        <XSAnimationKey name="CAH_スカート00"/>
+                        <XSAnimationKey name="CAH_注射器"/>
+                        <XSAnimationKey name="CAH_ベルト1_R_"/>
+                        <XSAnimationKey name="CAH_ベルト2_R_"/>
+                        <XSAnimationKey name="CAH_ベルト1_L_"/>
+                        <XSAnimationKey name="CAH_ベルト2_L_"/>
+                        <XSAnimationKey name="CAH_スカート71_R_"/>
+                        <XSAnimationKey name="CAH_スカート72_R_"/>
+                        <XSAnimationKey name="CAH_スカート73_R_"/>
+                        <XSAnimationKey name="CAH_スカート61_R_"/>
+                        <XSAnimationKey name="CAH_スカート62_R_"/>
+                        <XSAnimationKey name="CAH_スカート63_R_"/>
+                        <XSAnimationKey name="CAH_スカート51_R_"/>
+                        <XSAnimationKey name="CAH_スカート52_R_"/>
+                        <XSAnimationKey name="CAH_スカート53_R_"/>
+                        <XSAnimationKey name="CAH_スカート41_R_"/>
+                        <XSAnimationKey name="CAH_スカート42_R_"/>
+                        <XSAnimationKey name="CAH_スカート43_R_"/>
+                        <XSAnimationKey name="CAH_スカート31_R_"/>
+                        <XSAnimationKey name="CAH_スカート32_R_"/>
+                        <XSAnimationKey name="CAH_スカート33_R_"/>
+                        <XSAnimationKey name="CAH_スカート21_R_"/>
+                        <XSAnimationKey name="CAH_スカート22_R_"/>
+                        <XSAnimationKey name="CAH_スカート23_R_"/>
+                        <XSAnimationKey name="CAH_スカート81"/>
+                        <XSAnimationKey name="CAH_スカート82"/>
+                        <XSAnimationKey name="CAH_スカート83"/>
+                        <XSAnimationKey name="CAH_スカート71_L_"/>
+                        <XSAnimationKey name="CAH_スカート72_L_"/>
+                        <XSAnimationKey name="CAH_スカート73_L_"/>
+                        <XSAnimationKey name="CAH_スカート61_L_"/>
+                        <XSAnimationKey name="CAH_スカート62_L_"/>
+                        <XSAnimationKey name="CAH_スカート63_L_"/>
+                        <XSAnimationKey name="CAH_スカート51_L_"/>
+                        <XSAnimationKey name="CAH_スカート52_L_"/>
+                        <XSAnimationKey name="CAH_スカート53_L_"/>
+                        <XSAnimationKey name="CAH_スカート41_L_"/>
+                        <XSAnimationKey name="CAH_スカート42_L_"/>
+                        <XSAnimationKey name="CAH_スカート43_L_"/>
+                        <XSAnimationKey name="CAH_スカート31_L_"/>
+                        <XSAnimationKey name="CAH_スカート32_L_"/>
+                        <XSAnimationKey name="CAH_スカート33_L_"/>
+                        <XSAnimationKey name="CAH_スカート21_L_"/>
+                        <XSAnimationKey name="CAH_スカート22_L_"/>
+                        <XSAnimationKey name="CAH_スカート23_L_"/>
+                        <XSAnimationKey name="CAH_スカート11"/>
+                        <XSAnimationKey name="CAH_スカート12"/>
+                        <XSAnimationKey name="CAH_スカート13"/>
+                        <XSAnimationKey name="CAH_足_R_"/>
+                        <XSAnimationKey name="CAH_ひざ_R_"/>
+                        <XSAnimationKey name="CAH_足首_R_"/>
+                        <XSAnimationKey name="CAH_つま先_d_R_"/>
+                        <XSAnimationKey name="CAH_つま先_R_"/>
+                        <XSAnimationKey name="CAH_足_L_"/>
+                        <XSAnimationKey name="CAH_ひざ_L_"/>
+                        <XSAnimationKey name="CAH_足首_L_"/>
+                        <XSAnimationKey name="CAH_つま先_d_L_"/>
+                        <XSAnimationKey name="CAH_つま先_L_"/>
+                        <XSAnimationKey name="CAH_上半身"/>
+                        <XSAnimationKey name="CAH_上半身2"/>
+                        <XSAnimationKey name="CAH_チューブ21"/>
+                        <XSAnimationKey name="CAH_チューブ22"/>
+                        <XSAnimationKey name="CAH_ネックレス1_R_"/>
+                        <XSAnimationKey name="CAH_ネックレス2_R_"/>
+                        <XSAnimationKey name="CAH_ネックレス1_L_"/>
+                        <XSAnimationKey name="CAH_ネックレス2_L_"/>
+                        <XSAnimationKey name="CAH_ネックレスIK"/>
+                        <XSAnimationKey name="CAH_胸_R_"/>
+                        <XSAnimationKey name="CAH_胸_L_"/>
+                        <XSAnimationKey name="CAH_肩_L_"/>
+                        <XSAnimationKey name="CAH_チューブ1IK"/>
+                        <XSAnimationKey name="CAH_腕_L_"/>
+                        <XSAnimationKey name="CAH_腕捩_L_"/>
+                        <XSAnimationKey name="CAH_ひじ_L_"/>
+                        <XSAnimationKey name="CAH_手捩_L_"/>
+                        <XSAnimationKey name="CAH_チューブ31"/>
+                        <XSAnimationKey name="CAH_チューブ32"/>
+                        <XSAnimationKey name="CAH_手首_L_"/>
+                        <XSAnimationKey name="CAH_チューブ3IK"/>
+                        <XSAnimationKey name="CAH_中指０_L_"/>
+                        <XSAnimationKey name="CAH_中指１_L_"/>
+                        <XSAnimationKey name="CAH_中指２_L_"/>
+                        <XSAnimationKey name="CAH_中指３_L_"/>
+                        <XSAnimationKey name="CAH_親指０_L_"/>
+                        <XSAnimationKey name="CAH_親指１_L_"/>
+                        <XSAnimationKey name="CAH_親指２_L_"/>
+                        <XSAnimationKey name="CAH_人指０_L_"/>
+                        <XSAnimationKey name="CAH_人指１_L_"/>
+                        <XSAnimationKey name="CAH_人指２_L_"/>
+                        <XSAnimationKey name="CAH_人指３_L_"/>
+                        <XSAnimationKey name="CAH_肩_R_"/>
+                        <XSAnimationKey name="CAH_腕_R_"/>
+                        <XSAnimationKey name="CAH_腕捩_R_"/>
+                        <XSAnimationKey name="CAH_チューブ2IK"/>
+                        <XSAnimationKey name="CAH_ひじ_R_"/>
+                        <XSAnimationKey name="CAH_手捩_R_"/>
+                        <XSAnimationKey name="CAH_手首_R_"/>
+                        <XSAnimationKey name="CAH_親指１_R_"/>
+                        <XSAnimationKey name="CAH_中指１_R_"/>
+                        <XSAnimationKey name="CAH_人指１_R_"/>
+                        <XSAnimationKey name="CAH_首"/>
+                        <XSAnimationKey name="CAH_頭"/>
+                        <XSAnimationKey name="CAH_チューブ11"/>
+                        <XSAnimationKey name="CAH_チューブ12"/>
+                        <XSAnimationKey name="CAH_顎31_L_"/>
+                        <XSAnimationKey name="CAH_顎32_L_"/>
+                        <XSAnimationKey name="CAH_顎33_L_"/>
+                        <XSAnimationKey name="CAH_顎34_L_"/>
+                        <XSAnimationKey name="CAH_顎21_L_"/>
+                        <XSAnimationKey name="CAH_顎22_L_"/>
+                        <XSAnimationKey name="CAH_顎23_L_"/>
+                        <XSAnimationKey name="CAH_顎24_L_"/>
+                        <XSAnimationKey name="CAH_顎11_L_"/>
+                        <XSAnimationKey name="CAH_顎12_L_"/>
+                        <XSAnimationKey name="CAH_顎13_L_"/>
+                        <XSAnimationKey name="CAH_顎14_L_"/>
+                        <XSAnimationKey name="CAH_顎31_R_"/>
+                        <XSAnimationKey name="CAH_顎32_R_"/>
+                        <XSAnimationKey name="CAH_顎33_R_"/>
+                        <XSAnimationKey name="CAH_顎34_R_"/>
+                        <XSAnimationKey name="CAH_顎21_R_"/>
+                        <XSAnimationKey name="CAH_顎22_R_"/>
+                        <XSAnimationKey name="CAH_顎23_R_"/>
+                        <XSAnimationKey name="CAH_顎24_R_"/>
+                        <XSAnimationKey name="CAH_顎11_R_"/>
+                        <XSAnimationKey name="CAH_顎12_R_"/>
+                        <XSAnimationKey name="CAH_顎13_R_"/>
+                        <XSAnimationKey name="CAH_顎14_R_"/>
+                        <XSAnimationKey name="CAH_髪0000"/>
+                        <XSAnimationKey name="CAH_後髪0501_R_"/>
+                        <XSAnimationKey name="CAH_後髪0502_R_"/>
+                        <XSAnimationKey name="CAH_後髪0503_R_"/>
+                        <XSAnimationKey name="CAH_後髪0504_R_"/>
+                        <XSAnimationKey name="CAH_後髪0505_R_"/>
+                        <XSAnimationKey name="CAH_後髪0506_R_"/>
+                        <XSAnimationKey name="CAH_後髪0507_R_"/>
+                        <XSAnimationKey name="CAH_後髪0508_R_"/>
+                        <XSAnimationKey name="CAH_後髪0509_R_"/>
+                        <XSAnimationKey name="CAH_後髪0501_L_"/>
+                        <XSAnimationKey name="CAH_後髪0502_L_"/>
+                        <XSAnimationKey name="CAH_後髪0503_L_"/>
+                        <XSAnimationKey name="CAH_後髪0504_L_"/>
+                        <XSAnimationKey name="CAH_後髪0505_L_"/>
+                        <XSAnimationKey name="CAH_後髪0506_L_"/>
+                        <XSAnimationKey name="CAH_後髪0507_L_"/>
+                        <XSAnimationKey name="CAH_後髪0508_L_"/>
+                        <XSAnimationKey name="CAH_後髪0509_L_"/>
+                        <XSAnimationKey name="CAH_後髪0401_R_"/>
+                        <XSAnimationKey name="CAH_後髪0402_R_"/>
+                        <XSAnimationKey name="CAH_後髪0403_R_"/>
+                        <XSAnimationKey name="CAH_リボン21_R_"/>
+                        <XSAnimationKey name="CAH_リボン22_R_"/>
+                        <XSAnimationKey name="CAH_リボン11_R_"/>
+                        <XSAnimationKey name="CAH_リボン12_R_"/>
+                        <XSAnimationKey name="CAH_後髪0401_L_"/>
+                        <XSAnimationKey name="CAH_後髪0402_L_"/>
+                        <XSAnimationKey name="CAH_後髪0403_L_"/>
+                        <XSAnimationKey name="CAH_リボン21_L_"/>
+                        <XSAnimationKey name="CAH_リボン22_L_"/>
+                        <XSAnimationKey name="CAH_リボン11_L_"/>
+                        <XSAnimationKey name="CAH_リボン12_L_"/>
+                        <XSAnimationKey name="CAH_後髪0301_R_"/>
+                        <XSAnimationKey name="CAH_後髪0302_R_"/>
+                        <XSAnimationKey name="CAH_後髪0301_L_"/>
+                        <XSAnimationKey name="CAH_後髪0302_L_"/>
+                        <XSAnimationKey name="CAH_後髪0201_R_"/>
+                        <XSAnimationKey name="CAH_後髪0201_L_"/>
+                        <XSAnimationKey name="CAH_後髪0101"/>
+                        <XSAnimationKey name="CAH_前髪0301_L_"/>
+                        <XSAnimationKey name="CAH_前髪0301_R_"/>
+                        <XSAnimationKey name="CAH_前髪0201"/>
+                        <XSAnimationKey name="CAH_前髪0202"/>
+                        <XSAnimationKey name="CAH_前髪0101"/>
+                        <XSAnimationKey name="CAH_イヤリング_R_"/>
+                        <XSAnimationKey name="CAH_イヤリング_L_"/>
+                        <XSAnimationKey name="CAH_目_L_"/>
+                        <XSAnimationKey name="CAH_目_R_"/>
+                        <XSAnimationKey name="CAH_両目"/>
+                        <XSAnimationState name="CAH_body" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_me_L" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_me_R003" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_me_R" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_head" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_tube1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_tube2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_tube3" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_hair1_back1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_hair1_back2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_hair1_back3" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_hair1_back4" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_hair1_back5" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_hair1_back6" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_hair1_front1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_hair1_front2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_leg0" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_leg1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_leg2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_leg3" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_leg4" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_leg5" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_arm1_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_arm2_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_arm3_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_hand_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_finger1_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_finger2_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_finger3_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_finger4_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_arm0_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_arm1_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_arm2_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_arm3_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_hand_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_finger1_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_finger2_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_finger3_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_finger4_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl11_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl12_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl13_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl14_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl15_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl11_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl12_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl13_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl14_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl15_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl21" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl22" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl23" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl24" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl25" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl31" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl32" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl33" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl34" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_mndbl35" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_Na" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_ribbon1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_ribbon2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_earring1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_earring2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_Necklace1_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_Necklace1_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_Necklace2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_coat" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_nursecap" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_belt1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_belt2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_box" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_skirt" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_maebari" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAH_syringe" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="まばたき" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="笑い" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="ウィンク" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="真面目" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="困る" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="にこり" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="怒り" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="上" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="下" visible="1" fvalue="0.000000"/>
+                    </XSAnimation>
+                </XSAnimationSet>
+            </XSAnimationContainer>
+        </XSFormat>
+    </Plugin.BD1224DB.0000002C>
+</MetasequoiaDocument>
