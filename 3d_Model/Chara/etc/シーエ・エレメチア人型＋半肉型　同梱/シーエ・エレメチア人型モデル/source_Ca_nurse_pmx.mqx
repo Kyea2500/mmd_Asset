@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MetasequoiaDocument>
+    <IncludedBy>source_Ca_nurse_pmx.mqo</IncludedBy>
+    <Plugin.BD1224DB.0000002C name="ボーン">
+        <XSFormat version="0.2" app="Metasequoia">
+            <XSConfig>
+                <XSFileConfig limitFPS="0" FPS="60.00" step="0" freeze="0" fastcalc="0" adjustwgt="1" debugdraw="0" mode="0" multitrack="0"/>
+                <XSPhysicsConfig enable="0"/>
+                <XSSceneConfig col_scn="8375551"/>
+                <XSBoneConfig col_def="6737049" col_sel="16757299" col_hot="16776960" col_cst="15040434" col_phy="8362444"/>
+            </XSConfig>
+            <XSAnimationContainer>
+                <XSAnimationSet name="motion_01" interpolate="21">
+                    <XSAnimation frame="0">
+                        <XSAnimationKey name="CAN_全ての親"/>
+                        <XSAnimationKey name="CAN_両足オフセ"/>
+                        <XSAnimationKey name="CAN_足オフセ_R_"/>
+                        <XSAnimationKey name="CAN_足ＩＫ_R_"/>
+                        <XSAnimationKey name="CAN_つま先ＩＫ_R_"/>
+                        <XSAnimationKey name="CAN_つま先ＩＫ2_R_"/>
+                        <XSAnimationKey name="CAN_足オフセ_L_"/>
+                        <XSAnimationKey name="CAN_足ＩＫ_L_"/>
+                        <XSAnimationKey name="CAN_つま先ＩＫ_L_"/>
+                        <XSAnimationKey name="CAN_つま先ＩＫ2_L_"/>
+                        <XSAnimationKey name="CAN_センター"/>
+                        <XSAnimationKey name="CAN_下半身"/>
+                        <XSAnimationKey name="CAN_スカート11_R_"/>
+                        <XSAnimationKey name="CAN_スカート12_R_"/>
+                        <XSAnimationKey name="CAN_スカート13_R_"/>
+                        <XSAnimationKey name="CAN_スカート14_R_"/>
+                        <XSAnimationKey name="CAN_スカート15_R_"/>
+                        <XSAnimationKey name="CAN_スカート16_R_"/>
+                        <XSAnimationKey name="CAN_スカート21_R_"/>
+                        <XSAnimationKey name="CAN_スカート22_R_"/>
+                        <XSAnimationKey name="CAN_スカート23_R_"/>
+                        <XSAnimationKey name="CAN_スカート24_R_"/>
+                        <XSAnimationKey name="CAN_スカート25_R_"/>
+                        <XSAnimationKey name="CAN_スカート26_R_"/>
+                        <XSAnimationKey name="CAN_スカート31_R_"/>
+                        <XSAnimationKey name="CAN_スカート32_R_"/>
+                        <XSAnimationKey name="CAN_スカート33_R_"/>
+                        <XSAnimationKey name="CAN_スカート34_R_"/>
+                        <XSAnimationKey name="CAN_スカート35_R_"/>
+                        <XSAnimationKey name="CAN_スカート41_R_"/>
+                        <XSAnimationKey name="CAN_スカート42_R_"/>
+                        <XSAnimationKey name="CAN_スカート43_R_"/>
+                        <XSAnimationKey name="CAN_スカート44_R_"/>
+                        <XSAnimationKey name="CAN_スカート45_R_"/>
+                        <XSAnimationKey name="CAN_スカート51_R_"/>
+                        <XSAnimationKey name="CAN_スカート52_R_"/>
+                        <XSAnimationKey name="CAN_スカート53_R_"/>
+                        <XSAnimationKey name="CAN_スカート54_R_"/>
+                        <XSAnimationKey name="CAN_スカート55_R_"/>
+                        <XSAnimationKey name="CAN_スカート61_R_"/>
+                        <XSAnimationKey name="CAN_スカート62_R_"/>
+                        <XSAnimationKey name="CAN_スカート63_R_"/>
+                        <XSAnimationKey name="CAN_スカート64_R_"/>
+                        <XSAnimationKey name="CAN_スカート65_R_"/>
+                        <XSAnimationKey name="CAN_スカート11_L_"/>
+                        <XSAnimationKey name="CAN_スカート12_L_"/>
+                        <XSAnimationKey name="CAN_スカート13_L_"/>
+                        <XSAnimationKey name="CAN_スカート14_L_"/>
+                        <XSAnimationKey name="CAN_スカート15_L_"/>
+                        <XSAnimationKey name="CAN_スカート16_L_"/>
+                        <XSAnimationKey name="CAN_スカート21_L_"/>
+                        <XSAnimationKey name="CAN_スカート22_L_"/>
+                        <XSAnimationKey name="CAN_スカート23_L_"/>
+                        <XSAnimationKey name="CAN_スカート24_L_"/>
+                        <XSAnimationKey name="CAN_スカート25_L_"/>
+                        <XSAnimationKey name="CAN_スカート26_L_"/>
+                        <XSAnimationKey name="CAN_スカート31_L_"/>
+                        <XSAnimationKey name="CAN_スカート32_L_"/>
+                        <XSAnimationKey name="CAN_スカート33_L_"/>
+                        <XSAnimationKey name="CAN_スカート34_L_"/>
+                        <XSAnimationKey name="CAN_スカート35_L_"/>
+                        <XSAnimationKey name="CAN_スカート41_L_"/>
+                        <XSAnimationKey name="CAN_スカート42_L_"/>
+                        <XSAnimationKey name="CAN_スカート43_L_"/>
+                        <XSAnimationKey name="CAN_スカート44_L_"/>
+                        <XSAnimationKey name="CAN_スカート45_L_"/>
+                        <XSAnimationKey name="CAN_スカート51_L_"/>
+                        <XSAnimationKey name="CAN_スカート52_L_"/>
+                        <XSAnimationKey name="CAN_スカート53_L_"/>
+                        <XSAnimationKey name="CAN_スカート54_L_"/>
+                        <XSAnimationKey name="CAN_スカート55_L_"/>
+                        <XSAnimationKey name="CAN_スカート61_L_"/>
+                        <XSAnimationKey name="CAN_スカート62_L_"/>
+                        <XSAnimationKey name="CAN_スカート63_L_"/>
+                        <XSAnimationKey name="CAN_スカート64_L_"/>
+                        <XSAnimationKey name="CAN_スカート65_L_"/>
+                        <XSAnimationKey name="CAN_スカート71"/>
+                        <XSAnimationKey name="CAN_スカート72"/>
+                        <XSAnimationKey name="CAN_スカート73"/>
+                        <XSAnimationKey name="CAN_スカート74"/>
+                        <XSAnimationKey name="CAN_スカート75"/>
+                        <XSAnimationKey name="CAN_足_L_"/>
+                        <XSAnimationKey name="CAN_ひざ_L_"/>
+                        <XSAnimationKey name="CAN_足首_L_"/>
+                        <XSAnimationKey name="CAN_つま先_d_L_"/>
+                        <XSAnimationKey name="CAN_つま先_L_"/>
+                        <XSAnimationKey name="CAN_足_R_"/>
+                        <XSAnimationKey name="CAN_ひざ_R_"/>
+                        <XSAnimationKey name="CAN_足首_R_"/>
+                        <XSAnimationKey name="CAN_つま先_d_R_"/>
+                        <XSAnimationKey name="CAN_つま先_R_"/>
+                        <XSAnimationKey name="CAN_上半身"/>
+                        <XSAnimationKey name="CAN_上半身2"/>
+                        <XSAnimationKey name="CAN_ネックレス1_R_"/>
+                        <XSAnimationKey name="CAN_ネックレス2_R_"/>
+                        <XSAnimationKey name="CAN_ネックレス1_L_"/>
+                        <XSAnimationKey name="CAN_ネックレス2_L_"/>
+                        <XSAnimationKey name="CAN_ネックレスIK"/>
+                        <XSAnimationKey name="CAN_胸_R_"/>
+                        <XSAnimationKey name="CAN_胸_L_"/>
+                        <XSAnimationKey name="CAN_肩_L_"/>
+                        <XSAnimationKey name="CAN_腕_L_"/>
+                        <XSAnimationKey name="CAN_腕捩_L_"/>
+                        <XSAnimationKey name="CAN_ひじ_L_"/>
+                        <XSAnimationKey name="CAN_手捩_L_"/>
+                        <XSAnimationKey name="CAN_手首_L_"/>
+                        <XSAnimationKey name="CAN_中指１_L_"/>
+                        <XSAnimationKey name="CAN_中指２_L_"/>
+                        <XSAnimationKey name="CAN_中指３_L_"/>
+                        <XSAnimationKey name="CAN_人指１_L_"/>
+                        <XSAnimationKey name="CAN_人指２_L_"/>
+                        <XSAnimationKey name="CAN_人指３_L_"/>
+                        <XSAnimationKey name="CAN_親指０_L_"/>
+                        <XSAnimationKey name="CAN_親指１_L_"/>
+                        <XSAnimationKey name="CAN_親指２_L_"/>
+                        <XSAnimationKey name="CAN_薬指０_L_"/>
+                        <XSAnimationKey name="CAN_薬指１_L_"/>
+                        <XSAnimationKey name="CAN_薬指２_L_"/>
+                        <XSAnimationKey name="CAN_薬指３_L_"/>
+                        <XSAnimationKey name="CAN_小指０_L_"/>
+                        <XSAnimationKey name="CAN_小指１_L_"/>
+                        <XSAnimationKey name="CAN_小指２_L_"/>
+                        <XSAnimationKey name="CAN_小指３_L_"/>
+                        <XSAnimationKey name="CAN_肩_R_"/>
+                        <XSAnimationKey name="CAN_腕_R_"/>
+                        <XSAnimationKey name="CAN_腕捩_R_"/>
+                        <XSAnimationKey name="CAN_ひじ_R_"/>
+                        <XSAnimationKey name="CAN_手捩_R_"/>
+                        <XSAnimationKey name="CAN_手首_R_"/>
+                        <XSAnimationKey name="CAN_中指１_R_"/>
+                        <XSAnimationKey name="CAN_中指２_R_"/>
+                        <XSAnimationKey name="CAN_中指３_R_"/>
+                        <XSAnimationKey name="CAN_人指１_R_"/>
+                        <XSAnimationKey name="CAN_人指２_R_"/>
+                        <XSAnimationKey name="CAN_人指３_R_"/>
+                        <XSAnimationKey name="CAN_親指０_R_"/>
+                        <XSAnimationKey name="CAN_親指１_R_"/>
+                        <XSAnimationKey name="CAN_親指２_R_"/>
+                        <XSAnimationKey name="CAN_薬指０_R_"/>
+                        <XSAnimationKey name="CAN_薬指１_R_"/>
+                        <XSAnimationKey name="CAN_薬指２_R_"/>
+                        <XSAnimationKey name="CAN_薬指３_R_"/>
+                        <XSAnimationKey name="CAN_小指０_R_"/>
+                        <XSAnimationKey name="CAN_小指１_R_"/>
+                        <XSAnimationKey name="CAN_小指２_R_"/>
+                        <XSAnimationKey name="CAN_小指３_R_"/>
+                        <XSAnimationKey name="CAN_首"/>
+                        <XSAnimationKey name="CAN_頭"/>
+                        <XSAnimationKey name="CAN_髪0000"/>
+                        <XSAnimationKey name="CAN_後髪0501_R_"/>
+                        <XSAnimationKey name="CAN_後髪0502_R_"/>
+                        <XSAnimationKey name="CAN_後髪0503_R_"/>
+                        <XSAnimationKey name="CAN_後髪0504_R_"/>
+                        <XSAnimationKey name="CAN_後髪0505_R_"/>
+                        <XSAnimationKey name="CAN_後髪0506_R_"/>
+                        <XSAnimationKey name="CAN_後髪0507_R_"/>
+                        <XSAnimationKey name="CAN_後髪0508_R_"/>
+                        <XSAnimationKey name="CAN_後髪0509_R_"/>
+                        <XSAnimationKey name="CAN_後髪0501_L_"/>
+                        <XSAnimationKey name="CAN_後髪0502_L_"/>
+                        <XSAnimationKey name="CAN_後髪0503_L_"/>
+                        <XSAnimationKey name="CAN_後髪0504_L_"/>
+                        <XSAnimationKey name="CAN_後髪0505_L_"/>
+                        <XSAnimationKey name="CAN_後髪0506_L_"/>
+                        <XSAnimationKey name="CAN_後髪0507_L_"/>
+                        <XSAnimationKey name="CAN_後髪0508_L_"/>
+                        <XSAnimationKey name="CAN_後髪0509_L_"/>
+                        <XSAnimationKey name="CAN_後髪0401_R_"/>
+                        <XSAnimationKey name="CAN_後髪0402_R_"/>
+                        <XSAnimationKey name="CAN_後髪0403_R_"/>
+                        <XSAnimationKey name="CAN_リボン21_R_"/>
+                        <XSAnimationKey name="CAN_リボン22_R_"/>
+                        <XSAnimationKey name="CAN_リボン11_R_"/>
+                        <XSAnimationKey name="CAN_リボン12_R_"/>
+                        <XSAnimationKey name="CAN_後髪0401_L_"/>
+                        <XSAnimationKey name="CAN_後髪0402_L_"/>
+                        <XSAnimationKey name="CAN_後髪0403_L_"/>
+                        <XSAnimationKey name="CAN_リボン21_L_"/>
+                        <XSAnimationKey name="CAN_リボン22_L_"/>
+                        <XSAnimationKey name="CAN_リボン11_L_"/>
+                        <XSAnimationKey name="CAN_リボン12_L_"/>
+                        <XSAnimationKey name="CAN_後髪0301_R_"/>
+                        <XSAnimationKey name="CAN_後髪0302_R_"/>
+                        <XSAnimationKey name="CAN_後髪0301_L_"/>
+                        <XSAnimationKey name="CAN_後髪0302_L_"/>
+                        <XSAnimationKey name="CAN_後髪0201_R_"/>
+                        <XSAnimationKey name="CAN_後髪0201_L_"/>
+                        <XSAnimationKey name="CAN_後髪0101"/>
+                        <XSAnimationKey name="CAN_前髪0301_L_"/>
+                        <XSAnimationKey name="CAN_前髪0301_R_"/>
+                        <XSAnimationKey name="CAN_前髪0201"/>
+                        <XSAnimationKey name="CAN_前髪0202"/>
+                        <XSAnimationKey name="CAN_前髪0101"/>
+                        <XSAnimationKey name="CAN_イヤリング_R_"/>
+                        <XSAnimationKey name="CAN_イヤリング_L_"/>
+                        <XSAnimationKey name="CAN_目_L_"/>
+                        <XSAnimationKey name="CAN_目_R_"/>
+                        <XSAnimationKey name="CAN_両目"/>
+                        <XSAnimationState name="CAN_body" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_me_L" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_me_R003" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_me_R" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_head" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_Necklace1_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_Necklace1_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_Necklace2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_earring1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_earring2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_cap" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_boots_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_boots_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_belt" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_box" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_ribbon1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_ribbon2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_outfit1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_outfit2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_outfit3" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_outfit4" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_outfit5_l" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_outfit5_r" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_hair1_back1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_hair1_back2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_hair1_back3" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_hair1_back4" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_hair1_back5" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_hair1_back6" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_hair1_front1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_hair1_front2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_Na" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_skirt" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_syringe1" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="CAN_syringe2" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="あ" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="い" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="う" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="え" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="お" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="ん" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="にやり" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="prpr" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="まばたき" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="笑い" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="ウィンク" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="真面目" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="困る" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="にこり" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="怒り" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="上" visible="1" fvalue="0.000000"/>
+                        <XSAnimationState name="下" visible="1" fvalue="0.000000"/>
+                    </XSAnimation>
+                </XSAnimationSet>
+            </XSAnimationContainer>
+        </XSFormat>
+    </Plugin.BD1224DB.0000002C>
+</MetasequoiaDocument>

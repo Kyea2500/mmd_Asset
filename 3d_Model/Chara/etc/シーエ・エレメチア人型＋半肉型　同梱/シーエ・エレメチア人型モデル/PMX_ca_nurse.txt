@@ -1,0 +1,548 @@
+ExportPMD format 1.0
+
+Global {
+	name "Ca_nurse"
+	name_en "Ca_nurse"
+	comment "MMDモデル:Ca_nurse|デザインした人:Deino|モデリングした人:Deino|リギングした人:kuroyu"
+	comment_en "MMDモデル:Ca_nurse|Design:Deino|Modeling:Deino|Rigging:kuroyu"
+	mul	0.125
+	addbone 0
+	lr 1
+	dictionary 1
+	shell 0
+	vcolor 1
+	app ""
+	objmerge 1
+}
+Dictionary {
+
+	"A" "あ"
+	"I" "い"
+	"U" "う"
+	"E" "え"
+	"O" "お"
+}
+
+SkinType {
+	"真面目" 1
+	"困る" 1
+	"にこり" 1
+	"怒り" 1
+	"上" 1
+	"下" 1
+
+	"まばたき" 2
+	"笑い" 2
+	"ウィンク" 2
+
+	"あ" 3
+	"い" 3
+	"う" 3
+	"え" 3
+	"お" 3
+	"ん" 3
+	"にやり" 3
+	"prpr" 3
+
+}
+
+SkinDisp {
+	enable 1
+	"あ" 1
+	"い" 1
+	"う" 1
+	"え" 1
+	"お" 1
+	"ん" 1
+	"にやり" 1
+	"prpr" 1
+
+	"まばたき" 1
+	"笑い" 1
+	"ウィンク" 1
+
+	"真面目" 1
+	"困る" 1
+	"にこり" 1
+	"怒り" 1
+	"上" 1
+	"下" 1
+
+}
+
+BoneDisp "Root" {
+	enable 1
+	"センター" 1
+}
+
+BoneDisp "全ての親" {
+	enable 1
+	"全ての親" 1
+}
+
+BoneDisp "ＩＫ" {
+	enable 1
+	"左足ＩＫ" 1
+	"右足ＩＫ" 1
+	"左つま先ＩＫ" 1
+	"右つま先ＩＫ" 1
+	"左つま先ＩＫ2" 1
+	"右つま先ＩＫ2" 1
+}
+
+BoneDisp "体(上)" {
+	enable 1
+	"上半身" 1
+	"上半身2" 1
+	"首" 1
+	"頭" 1
+	"左目" 1
+	"右目" 1
+	"両目" 1
+	"左胸" 1
+	"右胸" 1
+	"首輪" 1
+}
+
+BoneDisp "腕" {
+	enable 1
+	"左肩" 1
+	"左腕" 1
+	"左腕捩" 1
+	"左ひじ" 1
+	"左手捩" 1
+	"左手首" 1
+	"右肩" 1
+	"右腕" 1
+	"右腕捩" 1
+	"右ひじ" 1
+	"右手捩" 1
+	"右手首" 1
+}
+
+BoneDisp "指" {
+	enable 1
+	"左親指０" 1
+	"左親指１" 1
+	"左親指２" 1
+	"左人指１" 1
+	"左人指２" 1
+	"左人指３" 1
+	"左中指１" 1
+	"左中指２" 1
+	"左中指３" 1
+	"左薬指０" 1
+	"左薬指１" 1
+	"左薬指２" 1
+	"左薬指３" 1
+	"左小指０" 1
+	"左小指１" 1
+	"左小指２" 1
+	"左小指３" 1
+	"右親指０" 1
+	"右親指１" 1
+	"右親指２" 1
+	"右人指１" 1
+	"右人指２" 1
+	"右人指３" 1
+	"右中指１" 1
+	"右中指２" 1
+	"右中指３" 1
+	"右薬指０" 1
+	"右薬指１" 1
+	"右薬指２" 1
+	"右薬指３" 1
+	"右小指０" 1
+	"右小指１" 1
+	"右小指２" 1
+	"右小指３" 1
+}
+
+BoneDisp "体(下)" {
+	enable 1
+	"下半身" 1
+}
+
+BoneDisp "足" {
+	enable 1
+	"左足" 1
+	"左ひざ" 1
+	"左足首" 1
+	"左つま先" 1
+	"左つま先_d" 1
+	"右足" 1
+	"右ひざ" 1
+	"右足首" 1
+	"右つま先" 1
+	"右つま先_d" 1
+}
+
+BoneDisp "髪" {
+	enable 1
+	"髪0000" 1
+
+	"前髪0101" 1
+
+	"前髪0201" 1
+	"前髪0202" 1
+
+	"左前髪0301" 1
+	"右前髪0301" 1
+
+	"後髪0101" 1
+
+	"左後髪0201" 1
+	"右後髪0201" 1
+
+	"左後髪0301" 1
+	"右後髪0301" 1
+	"左後髪0302" 1
+	"右後髪0302" 1
+
+	"左後髪0401" 1
+	"右後髪0401" 1
+	"左後髪0402" 1
+	"右後髪0402" 1
+	"左後髪0403" 1
+	"右後髪0403" 1
+
+	"左後髪0501" 1
+	"右後髪0501" 1
+	"左後髪0502" 1
+	"右後髪0502" 1
+	"左後髪0503" 1
+	"右後髪0503" 1
+	"左後髪0504" 1
+	"右後髪0504" 1
+	"左後髪0505" 1
+	"右後髪0505" 1
+	"左後髪0506" 1
+	"右後髪0506" 1
+	"左後髪0507" 1
+	"右後髪0507" 1
+	"左後髪0508" 1
+	"右後髪0508" 1
+	"左後髪0509" 1
+	"右後髪0509" 1
+
+
+}
+
+BoneDisp "スカート" {
+	enable 1
+
+	"左スカート11" 1
+	"右スカート11" 1
+	"左スカート12" 1
+	"右スカート12" 1
+	"左スカート13" 1
+	"右スカート13" 1
+	"左スカート14" 1
+	"右スカート14" 1
+	"左スカート15" 1
+	"右スカート15" 1
+	"左スカート16" 1
+	"右スカート16" 1
+
+	"左スカート21" 1
+	"右スカート21" 1
+	"左スカート22" 1
+	"右スカート22" 1
+	"左スカート23" 1
+	"右スカート23" 1
+	"左スカート24" 1
+	"右スカート24" 1
+	"左スカート25" 1
+	"右スカート25" 1
+	"左スカート26" 1
+	"右スカート26" 1
+
+	"左スカート31" 1
+	"右スカート31" 1
+	"左スカート32" 1
+	"右スカート32" 1
+	"左スカート33" 1
+	"右スカート33" 1
+	"左スカート34" 1
+	"右スカート34" 1
+	"左スカート35" 1
+	"右スカート35" 1
+
+	"左スカート41" 1
+	"右スカート41" 1
+	"左スカート42" 1
+	"右スカート42" 1
+	"左スカート43" 1
+	"右スカート43" 1
+	"左スカート44" 1
+	"右スカート44" 1
+	"左スカート45" 1
+	"右スカート45" 1
+
+	"左スカート51" 1
+	"右スカート51" 1
+	"左スカート52" 1
+	"右スカート52" 1
+	"左スカート53" 1
+	"右スカート53" 1
+	"左スカート54" 1
+	"右スカート54" 1
+	"左スカート55" 1
+	"右スカート55" 1
+
+	"左スカート61" 1
+	"右スカート61" 1
+	"左スカート62" 1
+	"右スカート62" 1
+	"左スカート63" 1
+	"右スカート63" 1
+	"左スカート64" 1
+	"右スカート64" 1
+	"左スカート65" 1
+	"右スカート65" 1
+
+	"スカート71" 1
+	"スカート72" 1
+	"スカート73" 1
+	"スカート74" 1
+	"スカート75" 1
+
+}
+
+BoneDisp "アクセ" {
+	enable 1
+
+	"左イヤリング" 1
+	"右イヤリング" 1
+
+	"ネックレスIK" 1
+
+	"左ネックレス1" 1
+	"右ネックレス1" 1
+	"左ネックレス2" 1
+	"右ネックレス2" 1
+
+	"左リボン11" 1
+	"右リボン11" 1
+	"左リボン12" 1
+	"右リボン12" 1
+
+	"左リボン21" 1
+	"右リボン21" 1
+	"左リボン22" 1
+	"右リボン22" 1
+}
+
+
+BoneDisp "オフセット" {
+	enable 1
+	"両足オフセ" 1
+	"左足オフセ" 1
+	"右足オフセ" 1
+}
+
+BoneDisp "その他" {
+	enable 1
+}
+
+BoneAttr {
+	enable 0
+}
+
+
+
+
+Material "m_ca_hada" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon_skin.bmp"
+	spheretex "skin_sm.spa"
+	spheretype 2
+}
+
+Material "m_ca_white2" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm1.spa"
+	spheretype 2
+	rev 1
+}
+
+Material "m_ca_kuti" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon_skin.bmp"
+	spheretex "skin_sm.spa"
+	spheretype 2
+}
+
+Material "m_0_ca_black_metal" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm3.spa"
+	spheretype 2
+}
+
+Material "m_ca_gold" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm3.spa"
+	spheretype 2
+}
+
+Material "m_ca_belt02" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm2.spa"
+	spheretype 2
+}
+
+Material "m_ca_silver3" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm3.spa"
+	spheretype 2
+}
+
+Material "m_0_ca_kuro2" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm1.spa"
+	spheretype 2
+	rev 1
+}
+
+Material "m_ca_red" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm1.spa"
+	spheretype 2
+	rev 1
+}
+
+Material "m_ca_na-subou" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm1.spa"
+	spheretype 2
+}
+
+Material "m_ca_belt01" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm2.spa"
+	spheretype 2
+	rev 1
+}
+
+Material "m_ca_belt3" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm2.spa"
+	spheretype 2
+}
+
+Material "m_ca_kami01+" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "hair_sm.spa"
+	spheretype 2
+	rev 1
+}
+
+Material "m_ca_hunaver2" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm2.spa"
+	spheretype 2
+}
+
+Material "m_ca_me meka" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "eye_sm.spa"
+	spheretype 2
+}
+
+Material "m_ca_me" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "eye_sm.spa"
+	spheretype 2
+}
+
+Material "m_ca_silver_ibushi" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm4.spa"
+	spheretype 2
+}
+
+Material "m_ca_matuge" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm1.spa"
+	spheretype 2
+	rev 1
+}
+
+Material "m_syringe1" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm1.spa"
+	spheretype 2
+}
+
+Material "m_syringe2" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm3.spa"
+	spheretype 2
+}
+
+Material "m_syringe3" {
+	enable 1
+	amb 0.6 0.6 0.6
+	edge 0
+	toontex "toon.bmp"
+	spheretex "sm5.sph"
+	spheretype 1
+}
